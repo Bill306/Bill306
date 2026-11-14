@@ -1,4 +1,6 @@
-[English](./README.md) · [简体中文](./README.zh-CN.md)
+![Hey, I’m Bill. An AI-native person, driven by curiosity. A curious cat follows a question mark.](./assets/profile-banner.png)
+
+[English](./README.md) · [简体中文](./README.zh-CN.md) · [LinkedIn](https://www.linkedin.com/in/billdeng321)
 
 # Hey, I’m Bill 👋
 
