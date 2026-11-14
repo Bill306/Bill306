@@ -1,4 +1,6 @@
-[English](./README.md) · [简体中文](./README.zh-CN.md)
+![你好，我是 Bill。一个 AI-native 的人，始终保持好奇。小猫沿着问号探索。](./assets/profile-banner.png)
+
+[English](./README.md) · [简体中文](./README.zh-CN.md) · [LinkedIn](https://www.linkedin.com/in/billdeng321)
 
 # 你好，我是 Bill 👋
 
