@@ -2,6 +2,8 @@
 
 [English](./README.md) · [简体中文](./README.zh-CN.md) · [LinkedIn](https://www.linkedin.com/in/billdeng321)
 
+微信公众号：**比尔的小屋** · 在微信中搜索这个名称。
+
 # 你好，我是 Bill 👋
 
 **一个 AI-native 的人，始终保持好奇。**
