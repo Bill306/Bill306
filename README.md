@@ -2,6 +2,8 @@
 
 [English](./README.md) · [简体中文](./README.zh-CN.md) · [LinkedIn](https://www.linkedin.com/in/billdeng321)
 
+WeChat Official Account: **比尔的小屋** · Search this name in WeChat.
+
 # Hey, I’m Bill 👋
 
 **An AI-native person, driven by curiosity.**
