@@ -2,7 +2,7 @@
 
 [English](./README.md) · [简体中文](./README.zh-CN.md) · [项目专题](./COLLECTIONS.zh-CN.md)
 
-微信公众号：**比尔的小屋** · 在微信中搜索这个名称。
+[个人网站 ↗](https://heybill.cc) · 微信公众号：**比尔的小屋** · 在微信中搜索这个名称。
 
 # 你好，我是 Bill 👋
 

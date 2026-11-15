@@ -2,7 +2,7 @@
 
 [English](./README.md) · [简体中文](./README.zh-CN.md) · [Project collections](./COLLECTIONS.md)
 
-WeChat Official Account: **比尔的小屋** · Search this name in WeChat.
+[Personal website ↗](https://heybill.cc) · WeChat Official Account: **比尔的小屋** · Search this name in WeChat.
 
 # Hey, I’m Bill 👋
 
