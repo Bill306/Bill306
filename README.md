@@ -1,6 +1,6 @@
 ![Hey, I’m Bill. An AI-native person, driven by curiosity. A curious cat follows a question mark.](./assets/profile-banner.png)
 
-[English](./README.md) · [简体中文](./README.zh-CN.md) · [Project collections](./COLLECTIONS.md) · [LinkedIn](https://www.linkedin.com/in/billdeng321)
+[English](./README.md) · [简体中文](./README.zh-CN.md) · [Project collections](./COLLECTIONS.md)
 
 WeChat Official Account: **比尔的小屋** · Search this name in WeChat.
 
