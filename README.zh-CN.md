@@ -20,7 +20,9 @@
 
 读懂一份材料之后，还需要找到适合自己的复习方式。这个 Agent Skill 把 PDF 转成可以审阅的 Anki 卡片，保留来源页码，并导出 `.apkg` 文件。
 
-这个项目关注的问题是：什么样的卡片值得拿来复习？因此，每张卡片围绕一个回忆目标，答案能够追溯到资料，导出之前也保留了审阅的机会。
+**[浏览示例卡片](https://github.com/Bill306/anki-card-skills/blob/main/examples/lumabox/output/review.md)** · [下载 Anki 牌组](https://github.com/Bill306/anki-card-skills/raw/refs/heads/main/examples/lumabox/output/deck.apkg) · [阅读产品案例](./projects/anki/README.zh-CN.md)
+
+值得关注的设计：答案旁边保留来源页码，资料无法回答的问题也留下记录。通过现有示例，可以在导入之前查看卡片内容和资料缺口。
 
 ### 🔎 图表背后，发生了什么？
 
@@ -28,7 +30,9 @@
 
 看到一张股价图表，我会想知道其中的变化对应着什么事件。Forensics 把 Agent 研究流程放进网页界面，用来生成带有事件和转折点说明的图表。公开项目提供界面和示例 Skill，使用者可以接入自己的研究 Skill。
 
-其中一个产品问题是：研究需要几分钟，等待的人怎样理解这个过程？项目为此设计了生成前的预览、等待状态，以及可以打开和下载的图表结果。
+**[查看真实图表结果](https://github.com/Bill306/forensics/blob/main/docs/screenshots/05-real-samsung-chart.png)** · [了解使用流程与产品案例](./projects/forensics/README.zh-CN.md)
+
+值得关注的设计：开始生成之前，让用户核对解析出的公司与市场。案例还说明等待过程，以及打开和下载结果的使用流程。这里的公开结果为截图；生成新研究需要自行部署并配置 Skill。
 
 ### 🐱 少算一点账，多享受旅程
 
@@ -36,7 +40,9 @@
 
 一个微信多人旅行账本：记录不同货币的开支，选择每笔费用由哪些人分摊，并计算最后需要怎样转账。
 
-有意思的地方藏在同行朋友的各种情况里：有人垫付，部分成员参加活动，转账之后还需要确认收款。这个项目把这些情况放进完整的使用流程，从记录开支一直到确认结算。
+**[浏览产品导览](./projects/tripsplit/README.zh-CN.md#product-tour)** · [阅读结算设计案例](./projects/tripsplit/README.zh-CN.md#settlement-decision)
+
+值得关注的设计：付款人标记已经转账，收款人确认款项到账，分别完成确认。公开导览展示从记账到结算的流程；希望了解微信中的使用方式，也可以联系我。
 
 ## 我经常想起的问题
 

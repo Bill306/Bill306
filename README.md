@@ -20,7 +20,9 @@ I’m curious about how people learn, make decisions, and get through everyday l
 
 Reading something and remembering it are two different challenges. This agent skill turns PDFs into reviewable Anki cards, with source pages attached and an `.apkg` export.
 
-The question behind it: what makes a generated card worth studying? The project focuses on one recall target per card, traceable answers, and a review step before export.
+**[Browse the sample cards](https://github.com/Bill306/anki-card-skills/blob/main/examples/lumabox/output/review.md)** · [Download the Anki deck](https://github.com/Bill306/anki-card-skills/raw/refs/heads/main/examples/lumabox/output/deck.apkg) · [Read the product case](./projects/anki/README.md)
+
+The decision worth looking at: keep the source page beside the answer, and record questions the material cannot answer. The included sample lets you inspect both the cards and the missing information before importing anything.
 
 ### 🔎 What happened behind the chart?
 
@@ -28,7 +30,9 @@ The question behind it: what makes a generated card worth studying? The project 
 
 A price chart can leave you wondering what happened along the way. Forensics brings an agent research workflow into a web interface for generating charts annotated with events and turning points. The public app provides the interface and an example skill; users can connect their own research skill.
 
-The product question: how do you make a research process that takes several minutes understandable to the person waiting? The interface includes a preview before generation, a waiting state, and a chart that can be opened or downloaded.
+**[See a real chart result](https://github.com/Bill306/forensics/blob/main/docs/screenshots/05-real-samsung-chart.png)** · [Explore the workflow and product case](./projects/forensics/README.md)
+
+The decision worth looking at: show the resolved company and market before starting a generation request. The case also explains the waiting experience and the open/download flow. The public result above is a screenshot; running new research requires your own deployment and skill.
 
 ### 🐱 Less calculating. More travelling.
 
@@ -36,7 +40,9 @@ The product question: how do you make a research process that takes several minu
 
 A shared travel ledger built as a WeChat mini program: record expenses in different currencies, choose who shares each cost, and work out who pays whom.
 
-The interesting details are all very human: someone pays for the group, only a few people join an activity, and a transfer needs confirmation. The project gives those situations a place in the flow, from recording an expense to confirming settlement.
+**[Take the product tour](./projects/tripsplit/README.md#product-tour)** · [Read the settlement decision](./projects/tripsplit/README.md#why-payment-and-receipt-have-separate-confirmations)
+
+The decision worth looking at: a payer marking a transfer as sent and a recipient confirming it arrived are separate steps. The public tour follows the expense-to-settlement flow; WeChat access is available to discuss with me.
 
 ## Questions I keep coming back to
 
