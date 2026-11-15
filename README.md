@@ -1,6 +1,6 @@
 ![Hey, I’m Bill. An AI-native person, driven by curiosity. A curious cat follows a question mark.](./assets/profile-banner.png)
 
-[English](./README.md) · [简体中文](./README.zh-CN.md) · [LinkedIn](https://www.linkedin.com/in/billdeng321)
+[English](./README.md) · [简体中文](./README.zh-CN.md) · [Project collections](./COLLECTIONS.md) · [LinkedIn](https://www.linkedin.com/in/billdeng321)
 
 WeChat Official Account: **比尔的小屋** · Search this name in WeChat.
 
@@ -32,7 +32,7 @@ The product question: how do you make a research process that takes several minu
 
 ### 🐱 Less calculating. More travelling.
 
-**[喵喵旅账 · TripSplit](https://github.com/Bill306/tripsplit-wechat-miniprogram)**
+**[喵喵旅账 · TripSplit](./projects/tripsplit/README.md)**
 
 A shared travel ledger built as a WeChat mini program: record expenses in different currencies, choose who shares each cost, and work out who pays whom.
 

@@ -1,6 +1,6 @@
 ![你好，我是 Bill。一个 AI-native 的人，始终保持好奇。小猫沿着问号探索。](./assets/profile-banner.png)
 
-[English](./README.md) · [简体中文](./README.zh-CN.md) · [LinkedIn](https://www.linkedin.com/in/billdeng321)
+[English](./README.md) · [简体中文](./README.zh-CN.md) · [项目专题](./COLLECTIONS.zh-CN.md) · [LinkedIn](https://www.linkedin.com/in/billdeng321)
 
 微信公众号：**比尔的小屋** · 在微信中搜索这个名称。
 
@@ -32,7 +32,7 @@
 
 ### 🐱 少算一点账，多享受旅程
 
-**[喵喵旅账 · TripSplit](https://github.com/Bill306/tripsplit-wechat-miniprogram)**
+**[喵喵旅账 · TripSplit](./projects/tripsplit/README.zh-CN.md)**
 
 一个微信多人旅行账本：记录不同货币的开支，选择每笔费用由哪些人分摊，并计算最后需要怎样转账。
 
